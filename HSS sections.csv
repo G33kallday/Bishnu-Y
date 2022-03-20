@@ -1,4 +1,4 @@
-﻿name,weight,area,height,wallThickness,inertia,plastic,radius,jorsion,torsion
+﻿name,weight,area,height,wall_thickness,inertia,plastic,radius,jorsion,torsion
 HSS558.8X558.8X22.2,364,47668,559,22.2,2289,8529,219.1476823,3280000,11900
 HSS558.8X558.8X19,315,41248,559,19.1,2004,7423,220.413252,2860000,10400
 HSS508X508X22.2,329,43139,508,22.2,1697,6986,198.3270195,2440000,9780

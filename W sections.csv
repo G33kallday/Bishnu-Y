@@ -1,6 +1,4 @@
-﻿name,weight,area,depth,flangeWidth,webThickness,flangeThickness,inertiaX,plasticX,radiusX,inertiaY,plasticY,radiusY,jorsion,warping
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
+﻿name,weight,area,depth,flange_width,web_thickness,flange_thickness,inertia_x,plastic_x,radius_x,inertia_y,plastic_y,radius_y,jorsion,warping
 W1100X499,499,63500,1120,404,26.2,45,12900,26500,452,499,3870,88.6,31100,144000
 W1100X433,433,55100,1110,401,22,40.1,11200,23100,452,433,3360,88.6,21200,124000
 W1100X390,390,49800,1100,401,19.9,36.1,10000,20800,450,384,2980,88.1,15500,109000
